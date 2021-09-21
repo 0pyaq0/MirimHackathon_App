@@ -6,7 +6,7 @@ Retrofit과 GitHub API를 이용한 GitHub 사용자 검색 앱
 <br>
 
 ## Screen
-
+<img src = "https://user-images.githubusercontent.com/72568433/134142509-fc327fc4-9a1b-425b-ab5c-0daf712c32a6.PNG"/>
 
 ## Code
 <br>
@@ -85,6 +85,9 @@ addConverterFactory에는 GsonConverter를 추가하여 JSON 형식을 *DTO Clas
 
 GitHub API를 참고하여 자신이 표시할 정보를 고른 후 클래스를 생성
 - https://api.github.com/users/0pyaq0
+
+
+<img src = "https://user-images.githubusercontent.com/72568433/134142527-73f98b09-dd69-495a-8411-5720fcd13071.PNG"/>
 
 
 
