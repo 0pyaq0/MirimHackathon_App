@@ -1,6 +1,6 @@
 # MirimHackathon_App (Java) 💬
 <br>
-Retrofit과 GitHub API를 이용한 GitHub 사용자 검색 앱 🔗
+🔗 Retrofit과 GitHub API를 이용한 GitHub 사용자 검색 앱
 <br>
 <br>
 <br>
